@@ -1,0 +1,29 @@
+@charset "utf-8";
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	background-color: #FFFFFF;
+	width: 350px
+}
+.header {
+	font-size: xx-large;
+	border-bottom-style: solid;
+	border-color: black;
+	margin-bottom: 10px;
+	width: 100%;
+}
+.link {
+	font-size: xx-large;
+	width: 350px
+
+}
+
+.icon {
+	border-color: grey;
+	margin-right: 15px;
+}
+a {
+	vertical-align: super;
+	color: #0A3C3C;
+}
+
